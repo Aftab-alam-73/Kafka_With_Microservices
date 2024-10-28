@@ -1,0 +1,21 @@
+{
+  "name": "producer_service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/nodemon": "^1.19.6",
+    "express": "^4.21.1",
+    "kafkajs": "^2.2.4",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescipt": "^1.0.0"
+  }
+}
